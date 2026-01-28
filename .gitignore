@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.spec
+
+# Installer artifacts
+*.exe
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
