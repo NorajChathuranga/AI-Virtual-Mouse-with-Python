@@ -47,7 +47,7 @@ If you are a developer and want to run the raw Python script:
 ### 1. Install Dependencies
 
 ```bash
-pip install opencv-python mediapipe pyautogui pystray Pillow
+pip install -r requirements.txt
 
 ```
 
